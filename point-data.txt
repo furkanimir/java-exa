@@ -1,0 +1,14 @@
+7
+5,1	4,0	green
+
+1,4	3,9	yellow
+
+7,2	1,5	red
+
+5,9	3,7	blue
+
+8,3	6,2	purple
+
+2,5	7,8	orange
+
+4,6	0,5	black
