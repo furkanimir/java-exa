@@ -16,7 +16,7 @@ public class Acibadem {
 		// amstrong();
 		//amstrongfati();
 		//geometrik(2 , 3);
-		//tersCevir(547);
+		tersCevir(547);
 		//System.out.println(isAllPairsSum10(184629));
 		powDeneme();
 		
